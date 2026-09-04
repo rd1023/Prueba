@@ -28,5 +28,10 @@ Aqui voy a cargar los desarrollo hechos durante el curso de telematicos.
 
 [Ir a google] (www.google.com)
 
-<font color=red> texto de color rojo </font>
+<font color=red>[!WARNING]
+>Esto es importante
+
+>[!IMPORTANT]
+>Esto es de color rojo </font>
+
 
